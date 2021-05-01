@@ -10,9 +10,7 @@ export default class App extends Component {
     return (
       <div>
         <FirstCounter/>
-        <SecondCounter/>
-        <ThirdCounter/>
-        <FourthCounter/>
+        
       </div>
     )
   }
